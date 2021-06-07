@@ -1,3 +1,3 @@
-# Age-and-Gender-Prediction
- Using facial recognition to predicts age and gender attributes.
+# Age_Gender_Emotion_Race
+ Using facial recognition to predict human  attributes.
  
