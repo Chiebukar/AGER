@@ -1,4 +1,5 @@
 # Age_Gender_Emotion_Race
+![download (3)_1623119940310](https://user-images.githubusercontent.com/54807024/121211726-0abb2180-c810-11eb-819d-3e03158a001d.jpeg)
  This repository contains files Used in building and testing models for facial recognition and prediction of common human  attributes such as age, gender, emotion and race.
  
 The datasets used for this project where gotten thus:  <br />
@@ -21,5 +22,8 @@ Google colab files for real time testing of models,  Formatting Output and detec
 Age and Gender prediction with webcam: https://colab.research.google.com/github/Chiebukar/AGER/blob/main/Age_Gender_webcam.ipynb   <br />
 
 Age, Gender, emotion and race prediction with webcam: https://colab.research.google.com/github/Chiebukar/AGER/blob/main/AGER_webcam_colab.ipynb
+
+
+https://user-images.githubusercontent.com/54807024/121211873-2cb4a400-c810-11eb-9234-829e459cee57.mp4
 
 
