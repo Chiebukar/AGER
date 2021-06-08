@@ -16,7 +16,7 @@ Google colab files for getting data, exploatory data  analysis, training and mod
 (ii) Facial Emotion Recognition: https://colab.research.google.com/github/Chiebukar/AGER/blob/main/Facial_emotion_recogntion.ipynb    <br />
 (iii) Race detection: https://colab.research.google.com/github/Chiebukar/Age-and-Gender-Prediction/blob/main/race_prediction.ipynb   <br />
 
-Google colab files for real time testing of models with webcam video streams and image inputs.
+Google colab files for real time testing of models,  Formatting Output and detections with webcam video streams and image inputs.
 
 Age and Gender prediction with webcam: https://colab.research.google.com/github/Chiebukar/AGER/blob/main/Age_Gender_webcam.ipynb   <br />
 
