@@ -2,7 +2,7 @@
  This repository contains files Used in building and testing models for facial recognition and prediction of common human  attributes such as age, gender, emotion and race.
  
 The datasets used for this project where gotten thus:
-(i) Dataset for Age and Gender recognition: IMDB faces cropped datset with metadata (https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) \n
+(i) Dataset for Age and Gender recognition: IMDB faces cropped datset with metadata (https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) /n
 (ii) Dataset for Emotion detection : Ckplus dataset (https://www.kaggle.com/shawon10/ckplus)
 (iii) Dataset for race deection: FairFace dataset(https://www.kaggle.com/aibloy/fairface)
 
