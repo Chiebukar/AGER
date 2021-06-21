@@ -7,7 +7,7 @@ The datasets used for this project where gotten thus:  <br />
 (ii) Dataset for Emotion detection : Ckplus dataset (https://www.kaggle.com/shawon10/ckplus)  <br />
 (iii) Dataset for race deection: FairFace dataset(https://www.kaggle.com/aibloy/fairface)
 
-pretrained weights and models models during this project can be found at https://drive.google.com/drive/folders/1VBIfs1vsvIYkqlMO4-X2lsQfbFezgLm9?usp=sharing <br />
+pretrained weights and models models during this project can be found at https://drive.google.com/drive/folders/1VBIfs1vsvIYkqlMO4-X2lsQfbFezgLm9?usp=sharingS <br />
 The icons used for each label can be found at https://drive.google.com/drive/folders/1u4qkqysnxVaExIkMvFG2L57_G8DlCvsx?usp=sharing
 
 All the notebooks are created using google colab, follow the colab link  in each notebook for better viewing and usage.
