@@ -1,6 +1,6 @@
 # Age_Gender
 ![download (3)_1623119940310](https://user-images.githubusercontent.com/54807024/121211726-0abb2180-c810-11eb-819d-3e03158a001d.jpeg) <br />
- This repository contains files Used in building and testing models for facial recognition and prediction of common human  attributes such as age, gender, emotion and race.
+ This repository contains files used in building and testing models for facial recognition and prediction of common human attributes such as age, gender, emotion and race.
  
 The datasets used for this project where gotten thus:  <br />
 (i) Dataset for Age and Gender recognition: IMDB faces cropped datset with metadata (https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) <br />
