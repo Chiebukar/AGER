@@ -1,5 +1,0 @@
-1) Dataset for Age and Gender models: IMDB faces cropped datset with metadata (https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
-
-2) Dataset for Emotion model: Ckplus dataset (kaggle datasets download -d shawon10/ckplus)
-
-3) Dataset for race: Race: FairFace (kaggle datasets download -d aibloy/fairface)
