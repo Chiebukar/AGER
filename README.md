@@ -26,4 +26,8 @@ Age, Gender, emotion and race prediction with webcam: https://colab.research.goo
 
 https://user-images.githubusercontent.com/54807024/121211873-2cb4a400-c810-11eb-9234-829e459cee57.mp4
 
+Email: Sam23chuks@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/samuel-ozechi-b9b1781b6
+
 
