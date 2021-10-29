@@ -1,0 +1,61 @@
+literature review: 
+a.https://medium.com/ymedialabs-innovation/estimating-age-and-gender-with-mobilenets-13eaee1e819c
+b.https://medium.com/@CVxTz/predicting-apparent-age-and-gender-from-face-picture-keras-tensorflow-a99413d8fd5e
+*c.https://www.dlology.com/blog/easy-real-time-gender-age-prediction-from-webcam-video-with-keras/
+d.https://github.com/yu4u/age-gender-estimation
+e. https://github.com/BoyuanJiang/Age-Gender-Estimate-TF
+f.https://sefiks.com/2019/02/13/apparent-age-and-gender-prediction-in-keras/
+*g.https://medium.com/@pavelchernov/age-and-gender-estimation-open-source-projects-overview-simple-project-from-scratch-69581831297e 
+h. https://www.kaggle.com/aibloy/fairface/code
+i.https://sefiks.com/2019/11/11/race-and-ethnicity-prediction-in-keras/
+j. https://github.com/gitshanks/fer2013
+k. https://github.com/neha01/Realtime-Emotion-Detection
+l.https://sefiks.com/2018/01/01/facial-expression-recognition-with-keras/
+m.https://github.com/serengil/tensorflow-101/blob/master/python/age-gender-prediction-real-time.py
+
+
+
+
+1)Get dataset  for the model
+Gender and age: IMDB faces cropped datset with metadata (https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)(target_size = (224,24))
+Emotion: Ckplus (!kaggle datasets download -d shawon10/ckplus)
+Race: FairFace (kaggle datasets download -d aibloy/fairface)
+
+2) Load data into Google colab
+
+3) Exploratary data analysis
+
+4) display images with attributes
+
+5)preprocess data
+
+6)data augmentation
+
+
+7a) Transfer learning
+Get dataset  for the model
+Gender and age: vgg16,  mobilenet, Resnet, EfficientNetB3 trained on imagenet
+Emotion: Ckplus (!kaggle datasets download -d shawon10/ckplus)
+Race: FairFace (kaggle datasets download -d aibloy/fairface)
+
+
+emotion model task:
+1. loss smooth option 
+2. function to prepare test prediction
+3. augmentation for train data in sequence class
+
+7b) build 4 models  with keras turner on four different notebooks
+
+8)train model
+
+9)model evaluation and testing
+default (0.1)
+
+a) with picture inputs
+b) with webcam (images, videos)
+c) with webapp (streamlit)
+
+Tips
+1) use plotly for age dist plot
+2) get ethnicity and  gender values labels
+3) put data description in xlabel
